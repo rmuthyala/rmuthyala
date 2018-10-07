@@ -1,0 +1,7 @@
+A:\Projects\TernaryAndNullableValue\TernaryAndNullableValue\bin\Debug\TernaryAndNullableValue.exe.config
+A:\Projects\TernaryAndNullableValue\TernaryAndNullableValue\bin\Debug\TernaryAndNullableValue.exe
+A:\Projects\TernaryAndNullableValue\TernaryAndNullableValue\bin\Debug\TernaryAndNullableValue.pdb
+A:\Projects\TernaryAndNullableValue\TernaryAndNullableValue\obj\Debug\TernaryAndNullableValue.csprojAssemblyReference.cache
+A:\Projects\TernaryAndNullableValue\TernaryAndNullableValue\obj\Debug\TernaryAndNullableValue.csproj.CoreCompileInputs.cache
+A:\Projects\TernaryAndNullableValue\TernaryAndNullableValue\obj\Debug\TernaryAndNullableValue.exe
+A:\Projects\TernaryAndNullableValue\TernaryAndNullableValue\obj\Debug\TernaryAndNullableValue.pdb

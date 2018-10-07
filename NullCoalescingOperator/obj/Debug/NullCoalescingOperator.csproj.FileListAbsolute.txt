@@ -1,0 +1,6 @@
+A:\Projects\TernaryAndNullableValue\NullCoalescingOperator\bin\Debug\NullCoalescingOperator.exe.config
+A:\Projects\TernaryAndNullableValue\NullCoalescingOperator\bin\Debug\NullCoalescingOperator.exe
+A:\Projects\TernaryAndNullableValue\NullCoalescingOperator\bin\Debug\NullCoalescingOperator.pdb
+A:\Projects\TernaryAndNullableValue\NullCoalescingOperator\obj\Debug\NullCoalescingOperator.csproj.CoreCompileInputs.cache
+A:\Projects\TernaryAndNullableValue\NullCoalescingOperator\obj\Debug\NullCoalescingOperator.exe
+A:\Projects\TernaryAndNullableValue\NullCoalescingOperator\obj\Debug\NullCoalescingOperator.pdb

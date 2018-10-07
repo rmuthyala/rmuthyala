@@ -1,0 +1,7 @@
+A:\Projects\TernaryAndNullableValue\NullableProject\bin\Debug\NullableProject.exe.config
+A:\Projects\TernaryAndNullableValue\NullableProject\bin\Debug\NullableProject.exe
+A:\Projects\TernaryAndNullableValue\NullableProject\bin\Debug\NullableProject.pdb
+A:\Projects\TernaryAndNullableValue\NullableProject\obj\Debug\NullableProject.csprojAssemblyReference.cache
+A:\Projects\TernaryAndNullableValue\NullableProject\obj\Debug\NullableProject.csproj.CoreCompileInputs.cache
+A:\Projects\TernaryAndNullableValue\NullableProject\obj\Debug\NullableProject.exe
+A:\Projects\TernaryAndNullableValue\NullableProject\obj\Debug\NullableProject.pdb
